@@ -1,9 +1,9 @@
-.git
-__pycache__
-*.pyc
-*.log
 data/
 mysql/
 db/
+*.log
+.git
+.gitignore
+__pycache__/
 node_modules/
 .env
